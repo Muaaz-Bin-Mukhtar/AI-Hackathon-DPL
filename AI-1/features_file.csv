@@ -1,0 +1,101 @@
+tutor_id,name,city,subjects,years_experience,hourly_rate,rating,bio,years_experience_clean,hourly_rate_clean,rating_clean,subjects_clean,skills_set,years_num,rate_num,rating_norm
+9,Ali Yousaf,karachi,Social Studies,3, 35 ,3.4,Passionate about student success with individualized lesson plans.,3.0,35.0,3.4,social studies,{'social studies'},3,35.0,0.2727272727272727
+71,Zain Abbasi, RAWALPINDI ,GEOGRAPHY,10,46,5.2,Passionate about student success with individualized lesson plans.,10.0,46.0,5.0,geography,{'geography'},10,46.0,0.9999999999999998
+83,Daniyal Farooq,lahore,Urdu,12,,4.5,Passionate about student success with individualized lesson plans.,12.0,,4.5,urdu,{'urdu'},12,0.0,0.7727272727272727
+29,Ahmad Imran,Karachi,Finance Basics,3,,,Passionate about student success with individualized lesson plans.,3.0,,,finance basics,{'finance basics'},3,0.0,
+64,Laiba Yousaf,karachi,Earth Science,5+,PKR 3360,4.9,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",5.0,3360.0,4.9,earth science,{'earth science'},5,3360.0,0.9545454545454548
+1,Hassan Khan,Lahore,"History  , phy, Biology",seven,PKR 7840,3.9,Exam strategy specialist; past students improved by 20–30%.,,7840.0,3.9,"history  , phy, biology","{'history', 'phy', 'biology'}",0,7840.0,0.5
+6,Ahmad Hameed,Faisalabad,"  Life Sciences  ,    COMPUTER SCIENCE  ,  ACCOUNTING",1,PKR 2800,,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",1.0,2800.0,,"life sciences  ,    computer science  ,  accounting","{'life sciences', 'accounting', 'computer science'}",1,2800.0,
+51,Hassan Nawaz, Lahore ,,3,45usd,4.1,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",3.0,45.0,4.1,,set(),3,45.0,0.5909090909090906
+82,Laiba Javed, faisalabad ,"LANGUAGE ARTS  ,,,CHEMISTRY, Biology",4,$18,4.4,Exam strategy specialist; past students improved by 20–30%.,4.0,18.0,4.4,"language arts  ,,,chemistry, biology","{'', 'language arts', 'biology', 'chemistry'}",4,18.0,0.7272727272727273
+5,Anaya Khan,RAWALPINDI,Urdu,4,"34,-",,Flexible scheduling; online and in-person options.,4.0,34.0,,urdu,{'urdu'},4,34.0,
+24,Mariam Farooq,ISLAMABAD,"LANGUAGE ARTS, MATH",2,46usd,4.8,Flexible scheduling; online and in-person options.,2.0,46.0,4.8,"language arts, math","{'math', 'language arts'}",2,46.0,0.909090909090909
+66,Omar Khalid,lahore,Coding,12,$49,4.5,Flexible scheduling; online and in-person options.,12.0,49.0,4.5,coding,{'coding'},12,49.0,0.7727272727272727
+77,Mariam Butt,Lahore,computer science,2 years,31,4.3,Flexible scheduling; online and in-person options.,2.0,31.0,4.3,computer science,{'computer science'},2,31.0,0.6818181818181817
+61,Hassan Malik,Rawalpindi, Organic Chem ,9,$30,4.1,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",9.0,30.0,4.1,organic chem,{'organic chem'},9,30.0,0.5909090909090906
+25,Mariam Sheikh,Karachi,GEOGRAPHY,5,36,3.5,Focused on fundamentals and problem-solving habits.,5.0,36.0,3.5,geography,{'geography'},5,36.0,0.3181818181818181
+43,Amna Abbasi,Islamabad,"PHYSICS, math",—,19,4.5,Focused on fundamentals and problem-solving habits.,,19.0,4.5,"physics, math","{'math', 'physics'}",0,19.0,0.7727272727272727
+78,Fatima Malik,RAWALPINDI,"PHYSICS , ORGANIC CHEM",5,PKR 11200,4.7,Focused on fundamentals and problem-solving habits.,5.0,11200.0,4.7,"physics , organic chem","{'organic chem', 'physics'}",5,11200.0,0.8636363636363635
+39,Ali Khan,lahore,CHEM,8,$43,5.1,Project-based learning advocate; hands-on examples.,8.0,43.0,5.0,chem,{'chem'},8,43.0,0.9999999999999998
+57,Amna Sheikh,Islamabad," LANGUAGE ARTS  , Geography",15,,3.5,Flexible scheduling; online and in-person options.,15.0,,3.5,"language arts  , geography","{'geography', 'language arts'}",15,0.0,0.3181818181818181
+76,Hamza Mir,Rawalpindi,"BIOLOGY, Accounting",5, 12 ,3.8,Exam strategy specialist; past students improved by 20–30%.,5.0,12.0,3.8,"biology, accounting","{'accounting', 'biology'}",5,12.0,0.45454545454545436
+36,Usman Raza,rawalpindi,"PHY ,   finance basics  ",7,24,4.8,Exam strategy specialist; past students improved by 20–30%.,7.0,24.0,4.8,"phy ,   finance basics","{'phy', 'finance basics'}",7,24.0,0.909090909090909
+89,Usman Imran,Islamabad,"CODING,  Geography  , Accounting",1,$12,4.0,Focused on fundamentals and problem-solving habits.,1.0,12.0,4.0,"coding,  geography  , accounting","{'geography', 'accounting', 'coding'}",1,12.0,0.5454545454545454
+20,Ali Khan,FAISALABAD,"  Eng , Physics, Math",3,$42,4.9,Passionate about student success with individualized lesson plans.,3.0,42.0,4.9,"eng , physics, math","{'math', 'physics', 'eng'}",3,42.0,0.9545454545454548
+30,Saad Nawaz,Islamabad,"ACCOUNTING, pak studies , ORGANIC CHEM",2+,"31,-",4.0,Project-based learning advocate; hands-on examples.,2.0,31.0,4.0,"accounting, pak studies , organic chem","{'organic chem', 'pak studies', 'accounting'}",2,31.0,0.5454545454545454
+32,Noor Sheikh,Islamabad,"computer science, SOCIAL STUDIES",7,10,3.3,Exam strategy specialist; past students improved by 20–30%.,7.0,10.0,3.3,"computer science, social studies","{'computer science', 'social studies'}",7,10.0,0.22727272727272707
+92,Hassan Butt,Rawalpindi,"CHEMISTRY, Geography, literature",5, 18 ,,Flexible scheduling; online and in-person options.,5.0,18.0,,"chemistry, geography, literature","{'geography', 'literature', 'chemistry'}",5,18.0,
+86,Ali Yousaf,rawalpindi,Physics,6, 30 ,3.8,Exam strategy specialist; past students improved by 20–30%.,6.0,30.0,3.8,physics,{'physics'},6,30.0,0.45454545454545436
+10,Anaya Abbasi,lahore,organic chem,8+,"42,-",4.0,Passionate about student success with individualized lesson plans.,8.0,42.0,4.0,organic chem,{'organic chem'},8,42.0,0.5454545454545454
+54,Amna Malik,Karachi, URDU,3,13,4.4,Project-based learning advocate; hands-on examples.,3.0,13.0,4.4,urdu,{'urdu'},3,13.0,0.7272727272727273
+42,Hassan Yousaf, lahore ,"social studies, CODING, Mechanics",2 years,$38,5.6,Passionate about student success with individualized lesson plans.,2.0,38.0,5.0,"social studies, coding, mechanics","{'mechanics', 'coding', 'social studies'}",2,38.0,0.9999999999999998
+22,Usman Mir,Faisalabad,"Geo,   LANGUAGE ARTS ,   COMPUTER SCIENCE  ",5,$22,4.6,Focused on fundamentals and problem-solving habits.,5.0,22.0,4.6,"geo,   language arts ,   computer science","{'language arts', 'geo', 'computer science'}",5,22.0,0.8181818181818181
+91,Amna Anwar,RAWALPINDI,"english, Language Arts,,,Maths  ",1,PKR 11760,3.5,Exam strategy specialist; past students improved by 20–30%.,1.0,11760.0,3.5,"english, language arts,,,maths","{'', 'english', 'language arts', 'maths'}",1,11760.0,0.3181818181818181
+34,Amna Khalid,Islamabad," Language Arts  , English",3+,40,5.1,Flexible scheduling; online and in-person options.,3.0,40.0,5.0,"language arts  , english","{'english', 'language arts'}",3,40.0,0.9999999999999998
+70,Mariam Hussain,islamabad,"ACCOUNTING, chem",1,32,,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",1.0,32.0,,"accounting, chem","{'chem', 'accounting'}",1,32.0,
+85,Daniyal Khan,rawalpindi,"  PHYSICS  , BIOLOGY , accounting",5,19,3.2,Focused on fundamentals and problem-solving habits.,5.0,19.0,3.2,"physics  , biology , accounting","{'physics', 'accounting', 'biology'}",5,19.0,0.18181818181818188
+88,Daniyal Hameed, Lahore ,biology,three,26,4.3,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",,26.0,4.3,biology,{'biology'},0,26.0,0.6818181818181817
+96,Zain Ibrahim,lahore,"Accounting, english  ",9,11,5.0,Flexible scheduling; online and in-person options.,9.0,11.0,5.0,"accounting, english","{'english', 'accounting'}",9,11.0,0.9999999999999998
+98,Anaya Hameed,RAWALPINDI,"Geography, CHEM, LANGUAGE ARTS",3+,26,,Flexible scheduling; online and in-person options.,3.0,26.0,,"geography, chem, language arts","{'geography', 'language arts', 'chem'}",3,26.0,
+63,Amna Butt,FAISALABAD,,9+, 49 ,3.8,Flexible scheduling; online and in-person options.,9.0,49.0,3.8,,set(),9,49.0,0.45454545454545436
+13,Zain Raza,KARACHI,"BIOLOGY, Eng",4 years,17,4.3,Exam strategy specialist; past students improved by 20–30%.,4.0,17.0,4.3,"biology, eng","{'eng', 'biology'}",4,17.0,0.6818181818181817
+21,Omar Javed,LAHORE,"  literature  , PHY  ",2,$21,4.4,Flexible scheduling; online and in-person options.,2.0,21.0,4.4,"literature  , phy","{'phy', 'literature'}",2,21.0,0.7272727272727273
+90,Bilal Ibrahim, Islamabad ,"biology, history  , Accounting",8,"46,-",4.1,Exam strategy specialist; past students improved by 20–30%.,8.0,46.0,4.1,"biology, history  , accounting","{'history', 'accounting', 'biology'}",8,46.0,0.5909090909090906
+38,Daniyal Khalid, ISLAMABAD ,"  Accounts, Phy, English",2+,13,,Focused on fundamentals and problem-solving habits.,2.0,13.0,,"accounts, phy, english","{'english', 'phy', 'accounts'}",2,13.0,
+60,Mariam Imran, rawalpindi , ACCOUNTING  ,5, 27 ,4.3,Focused on fundamentals and problem-solving habits.,5.0,27.0,4.3,accounting,{'accounting'},5,27.0,0.6818181818181817
+2,Amna Anwar,RAWALPINDI,"geo , CS , english",4,PKR 12040,3.9,Flexible scheduling; online and in-person options.,4.0,12040.0,3.9,"geo , cs , english","{'english', 'geo', 'cs'}",4,12040.0,0.5
+75,Noor Ibrahim,Faisalabad,"biology,  ENGLISH , LANGUAGE ARTS",10,PKR 12040,5.6,Flexible scheduling; online and in-person options.,10.0,12040.0,5.0,"biology,  english , language arts","{'english', 'language arts', 'biology'}",10,12040.0,0.9999999999999998
+12,Noor Ahmed, Rawalpindi ," PHYSICS ,  chemistry",1 years,$25,5.2,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",1.0,25.0,5.0,"physics ,  chemistry","{'physics', 'chemistry'}",1,25.0,0.9999999999999998
+80,Ayesha Raza,rawalpindi,"physics, history, MATH",6,36,3.8,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",6.0,36.0,3.8,"physics, history, math","{'history', 'math', 'physics'}",6,36.0,0.45454545454545436
+15,Iqra Abbasi,islamabad,BIO,4,25,5.7,Project-based learning advocate; hands-on examples.,4.0,25.0,5.0,bio,{'bio'},4,25.0,0.9999999999999998
+55,Zain Imran,Islamabad,"BIO, mechanics, geography",5,$38,3.5,Flexible scheduling; online and in-person options.,5.0,38.0,3.5,"bio, mechanics, geography","{'geography', 'mechanics', 'bio'}",5,38.0,0.3181818181818181
+17,Hassan Hameed,Faisalabad,physics,15,31,3.0,Focused on fundamentals and problem-solving habits.,15.0,31.0,3.0,physics,{'physics'},15,31.0,0.09090909090909083
+27,Laiba Nawaz,Rawalpindi," History  ,   GEOGRAPHY  ",9,46,,Focused on fundamentals and problem-solving habits.,9.0,46.0,,"history  ,   geography","{'history', 'geography'}",9,46.0,
+52,Noor Anwar,faisalabad,"  urdu , MECHANICS, Math",4,$40,6.0,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",4.0,40.0,5.0,"urdu , mechanics, math","{'urdu', 'math', 'mechanics'}",4,40.0,0.9999999999999998
+46,Hina Khalid, lahore ,"GEOGRAPHY, organic chem, mechanics ",six,$42,5.0,Passionate about student success with individualized lesson plans.,,42.0,5.0,"geography, organic chem, mechanics","{'organic chem', 'geography', 'mechanics'}",0,42.0,0.9999999999999998
+7,Iqra Qureshi,Rawalpindi,Mathematics,6,$28,3.9,Passionate about student success with individualized lesson plans.,6.0,28.0,3.9,mathematics,{'mathematics'},6,28.0,0.5
+99,Noor Khan,Islamabad,"ORGANIC CHEM,   COMPUTER SCIENCE  ,  GEO",4,27,3.4,Passionate about student success with individualized lesson plans.,4.0,27.0,3.4,"organic chem,   computer science  ,  geo","{'organic chem', 'geo', 'computer science'}",4,27.0,0.2727272727272727
+31,Hamza Yousaf,RAWALPINDI,,4,19,4.4,Project-based learning advocate; hands-on examples.,4.0,19.0,4.4,,set(),4,19.0,0.7272727272727273
+45,Iqra Nawaz,karachi,Finance Basics,4,PKR 6440,4.5,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",4.0,6440.0,4.5,finance basics,{'finance basics'},4,6440.0,0.7727272727272727
+73,Daniyal Hameed,lahore,"Phy , math, Biology",0+,21,4.6,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",0.0,21.0,4.6,"phy , math, biology","{'math', 'phy', 'biology'}",0,21.0,0.8181818181818181
+44,Mariam Qureshi,islamabad,biology,9,$16,,Passionate about student success with individualized lesson plans.,9.0,16.0,,biology,{'biology'},9,16.0,
+16,Fatima Nawaz,Faisalabad,Urdu,3+, 8 ,4.8,Project-based learning advocate; hands-on examples.,3.0,8.0,4.8,urdu,{'urdu'},3,8.0,0.909090909090909
+95,Ali Khan,Islamabad, Chemistry  ,—, 8 ,5.1,Flexible scheduling; online and in-person options.,,8.0,5.0,chemistry,{'chemistry'},0,8.0,0.9999999999999998
+19,Iqra Anwar,Faisalabad,"urdu, BIOLOGY,  ACCOUNTING",9+, 16 ,3.0,Project-based learning advocate; hands-on examples.,9.0,16.0,3.0,"urdu, biology,  accounting","{'urdu', 'accounting', 'biology'}",9,16.0,0.09090909090909083
+14,Daniyal Abbasi,karachi,"urdu,   MATHEMATICS  ,  phy",5,47,4.7,Passionate about student success with individualized lesson plans.,5.0,47.0,4.7,"urdu,   mathematics  ,  phy","{'urdu', 'phy', 'mathematics'}",5,47.0,0.8636363636363635
+23,Ayesha Sheikh,rawalpindi," accounting, PAK STUDIES",2,$39,3.1,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",2.0,39.0,3.1,"accounting, pak studies","{'pak studies', 'accounting'}",2,39.0,0.13636363636363646
+11,Daniyal Nawaz,FAISALABAD,"Language Arts, Phy",four,47usd,3.8,Project-based learning advocate; hands-on examples.,,47.0,3.8,"language arts, phy","{'phy', 'language arts'}",0,47.0,0.45454545454545436
+59,Mariam Mir,Faisalabad,ORGANIC CHEM,3,33,4.3,Project-based learning advocate; hands-on examples.,3.0,33.0,4.3,organic chem,{'organic chem'},3,33.0,0.6818181818181817
+72,Hina Sheikh,karachi,"Math, language arts, life sciences",3 years,"23,-",5.4,Passionate about student success with individualized lesson plans.,3.0,23.0,5.0,"math, language arts, life sciences","{'math', 'life sciences', 'language arts'}",3,23.0,0.9999999999999998
+65,Ali Butt,Faisalabad,"programming,  ORGANIC CHEM, Accounting",2,PKR 10360,5.6,Exam strategy specialist; past students improved by 20–30%.,2.0,10360.0,5.0,"programming,  organic chem, accounting","{'programming', 'accounting', 'organic chem'}",2,10360.0,0.9999999999999998
+4,Daniyal Khan,Karachi,COMPUTER SCIENCE,6 years,29,3.7,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",6.0,29.0,3.7,computer science,{'computer science'},6,29.0,0.40909090909090917
+41,Hina Butt,RAWALPINDI,PHYSICS  ,10, 8 ,3.9,Flexible scheduling; online and in-person options.,10.0,8.0,3.9,physics,{'physics'},10,8.0,0.5
+35,Hamza Mir,Lahore,CHEM,5,$39,,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",5.0,39.0,,chem,{'chem'},5,39.0,
+28,Zain Yousaf,Rawalpindi,"PROGRAMMING, PHYSICS",3,20,,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",3.0,20.0,,"programming, physics","{'programming', 'physics'}",3,20.0,
+53,Saad Malik,islamabad,COMPUTER SCIENCE,2,26,5.1,Project-based learning advocate; hands-on examples.,2.0,26.0,5.0,computer science,{'computer science'},2,26.0,0.9999999999999998
+8,Ali Anwar, Karachi , accounting ,4,PKR 9240,4.1,Flexible scheduling; online and in-person options.,4.0,9240.0,4.1,accounting,{'accounting'},4,9240.0,0.5909090909090906
+49,Anaya Sheikh,rawalpindi,ENGLISH,0,"21,-",4.9,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",0.0,21.0,4.9,english,{'english'},0,21.0,0.9545454545454548
+62,Saad Nawaz,Karachi,"BIOLOGY,   computer science ,   Mathematics",2,$29,,Passionate about student success with individualized lesson plans.,2.0,29.0,,"biology,   computer science ,   mathematics","{'mathematics', 'computer science', 'biology'}",2,29.0,
+94,Zain Ibrahim, Rawalpindi ,"Language Arts ,   chemistry ",2,$36,,Focused on fundamentals and problem-solving habits.,2.0,36.0,,"language arts ,   chemistry","{'language arts', 'chemistry'}",2,36.0,
+100,Saad Khalid,LAHORE,math,eight,$46,4.5,Focused on fundamentals and problem-solving habits.,,46.0,4.5,math,{'math'},0,46.0,0.7727272727272727
+40,Omar Hameed,Rawalpindi,"COMPUTER SCIENCE,  CHEMISTRY,  PHYSICS",7,26,3.6,Flexible scheduling; online and in-person options.,7.0,26.0,3.6,"computer science,  chemistry,  physics","{'physics', 'computer science', 'chemistry'}",7,26.0,0.36363636363636354
+3,Ali Farooq,islamabad," earth science, COMPUTER SCIENCE, ENGLISH",12,$37,3.7,Project-based learning advocate; hands-on examples.,12.0,37.0,3.7,"earth science, computer science, english","{'english', 'earth science', 'computer science'}",12,37.0,0.40909090909090917
+68,Ali Javed,Lahore,MATH,2,30,4.0,Passionate about student success with individualized lesson plans.,2.0,30.0,4.0,math,{'math'},2,30.0,0.5454545454545454
+56,Ali Khan,Karachi,"earth science, math  ,  CHEMISTRY",4,10,3.0,Passionate about student success with individualized lesson plans.,4.0,10.0,3.0,"earth science, math  ,  chemistry","{'math', 'earth science', 'chemistry'}",4,10.0,0.09090909090909083
+50,Ahmad Raza, Karachi ,"Accounting, language arts,   Geography",3,$19,3.5,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",3.0,19.0,3.5,"accounting, language arts,   geography","{'geography', 'language arts', 'accounting'}",3,19.0,0.3181818181818181
+69,Zain Khan, Islamabad ,"BIOLOGY , Geography  ,  computer science",4,$39,,Exam strategy specialist; past students improved by 20–30%.,4.0,39.0,,"biology , geography  ,  computer science","{'geography', 'computer science', 'biology'}",4,39.0,
+81,Bilal Javed, Lahore , computer science ,1,$41,4.2,Exam strategy specialist; past students improved by 20–30%.,1.0,41.0,4.2,computer science,{'computer science'},1,41.0,0.6363636363636365
+37,Daniyal Abbasi,Lahore,"URDU, BIOLOGY, mechanics",8,PKR 3360,5.1,Focused on fundamentals and problem-solving habits.,8.0,3360.0,5.0,"urdu, biology, mechanics","{'urdu', 'mechanics', 'biology'}",8,3360.0,0.9999999999999998
+79,Sara Mir,islamabad,Biology,8,44,,Project-based learning advocate; hands-on examples.,8.0,44.0,,biology,{'biology'},8,44.0,
+97,Sara Javed, Karachi ,"BIOLOGY,,,Mechanics,,,english",7+,PKR 12880,,Passionate about student success with individualized lesson plans.,7.0,12880.0,,"biology,,,mechanics,,,english","{'', 'english', 'mechanics', 'biology'}",7,12880.0,
+26,Daniyal Sheikh,Rawalpindi," Literature, URDU",3+,PKR 3640,,Passionate about student success with individualized lesson plans.,3.0,3640.0,,"literature, urdu","{'urdu', 'literature'}",3,3640.0,
+47,Fatima Mir,Rawalpindi,"ALGEBRA  , Accounting",12 years,PKR 7000,4.2,Focused on fundamentals and problem-solving habits.,12.0,7000.0,4.2,"algebra  , accounting","{'algebra', 'accounting'}",12,7000.0,0.6363636363636365
+33,Mariam Khalid,Lahore,Chemistry,3+,9usd,,Project-based learning advocate; hands-on examples.,3.0,9.0,,chemistry,{'chemistry'},3,9.0,
+74,Mariam Butt, faisalabad ,GEO,5,PKR 12320,4.5,"Bilingual; comfortable with ICSE, O/A Levels, Matric/FSc.",5.0,12320.0,4.5,geo,{'geo'},5,12320.0,0.7727272727272727
+48,Bilal Mir, ISLAMABAD ,"biology,  Urdu",4,$48,3.2,Flexible scheduling; online and in-person options.,4.0,48.0,3.2,"biology,  urdu","{'urdu', 'biology'}",4,48.0,0.18181818181818188
+87,Fatima Hussain,lahore,HISTORY,5+,27,4.3,Flexible scheduling; online and in-person options.,5.0,27.0,4.3,history,{'history'},5,27.0,0.6818181818181817
+58,Laiba Sheikh,Islamabad,"CODING, CHEMISTRY",2,PKR 12880,3.4,Exam strategy specialist; past students improved by 20–30%.,2.0,12880.0,3.4,"coding, chemistry","{'coding', 'chemistry'}",2,12880.0,0.2727272727272727
+84,Ahmad Javed,Islamabad,"geography, CHEMISTRY",,PKR 8680,2.8,Focused on fundamentals and problem-solving habits.,,8680.0,2.8,"geography, chemistry","{'geography', 'chemistry'}",0,8680.0,0.0
+18,Hamza Ahmed,faisalabad,"  URDU  ,  English  ,    GEOGRAPHY",6,$49,3.5,Exam strategy specialist; past students improved by 20–30%.,6.0,49.0,3.5,"urdu  ,  english  ,    geography","{'urdu', 'english', 'geography'}",6,49.0,0.3181818181818181
+93,Hina Sheikh, Rawalpindi ,Urdu,8,20,,Flexible scheduling; online and in-person options.,8.0,20.0,,urdu,{'urdu'},8,20.0,
+67,Hassan Hameed,RAWALPINDI,"algebra, History",1+,,3.5,Focused on fundamentals and problem-solving habits.,1.0,,3.5,"algebra, history","{'history', 'algebra'}",1,0.0,0.3181818181818181

@@ -1,0 +1,2 @@
+OPENAI_API_KEY=028fa2e1-fb69-4cca-89aa-1e11ffc4dcc1
+OPENAI_BASE_URL=https://openai.dplit.com/v1
